@@ -3,6 +3,7 @@
 
 ![Kalashiev GitHub stats](https://github-readme-stats.vercel.app/api?username=kalashiev&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalashiev)](https://github.com/kalashiev/github-readme-stats)
 
 
 
